@@ -1,0 +1,493 @@
+Date,Continent,Country,Circuit,Winner-name,Team,Time,Laps,Year
+2000-03-26,South America,Brazil,Autodromo José Carlos Pace,Michael Schumacher,Ferrari,01:31:35,71.0,2000
+2000-04-09,Europe,San Marino,Imola,Michael Schumacher,Ferrari,01:31:39,62.0,2000
+2000-04-23,Europe,Great Britain,Silverstone Circuit,David Coulthard,McLaren Mercedes,01:28:50,60.0,2000
+2000-05-07,Europe,Spain,Circuit de Barcelona Catalunya,Mika Hakkinen,McLaren Mercedes,01:33:55,65.0,2000
+2000-05-21,Europe,Germany,Nürburgring,Michael Schumacher,Ferrari,01:42:00,67.0,2000
+2000-06-04,Europe,Monaco,Circuit de Monaco,David Coulthard,McLaren Mercedes,01:49:28,78.0,2000
+2000-06-18,North America,Canada,Circuit Gilles Villeneuve,Michael Schumacher,Ferrari,01:41:12,69.0,2000
+2000-07-02,Europe,France,Circuit de Nevers Magny Cours,David Coulthard,McLaren Mercedes,01:38:05,72.0,2000
+2000-07-16,Europe,Austria,Red Bull Ring,Mika Hakkinen,McLaren Mercedes,01:28:15,71.0,2000
+2000-07-30,Europe,Germany,Hockenheimring,Rubens Barrichello,Ferrari,01:25:34,45.0,2000
+2000-08-13,Europe,Hungary,Hungaroring,Mika Hakkinen,McLaren Mercedes,01:45:33,77.0,2000
+2000-08-27,Europe,Belgium,Circuit de Spa Francorchamps,Mika Hakkinen,McLaren Mercedes,01:28:14,44.0,2000
+2000-09-10,Europe,Italy,Autodromo Nazionale di Monza,Michael Schumacher,Ferrari,01:27:31,53.0,2000
+2000-09-24,North America,United States,Indianapolis Motor Speedway,Michael Schumacher,Ferrari,01:36:30,73.0,2000
+2000-10-08,Asia,Japan,Suzuka International Racing Course,Michael Schumacher,Ferrari,01:29:53,53.0,2000
+2000-10-22,Asia,Malaysia,Sepang International Circuit,Michael Schumacher,Ferrari,01:35:54,56.0,2000
+2001-03-04,Oceania,Australia,Albert Park Circuit,Michael Schumacher,Ferrari,01:38:26,58.0,2001
+2001-03-18,Asia,Malaysia,Sepang International Circuit,Michael Schumacher,Ferrari,01:47:34,55.0,2001
+2001-04-01,South America,Brazil,Autodromo José Carlos Pace,David Coulthard,McLaren Mercedes,01:39:00,71.0,2001
+2001-04-15,Europe,San Marino,Imola,Ralf Schumacher,Williams BMW,01:30:44,62.0,2001
+2001-04-29,Europe,Spain,Circuit de Barcelona Catalunya,Michael Schumacher,Ferrari,01:31:03,65.0,2001
+2001-05-13,Europe,Austria,Red Bull Ring,David Coulthard,McLaren Mercedes,01:27:45,71.0,2001
+2001-05-27,Europe,Monaco,Circuit de Monaco,Michael Schumacher,Ferrari,01:47:22,78.0,2001
+2001-06-10,North America,Canada,Circuit Gilles Villeneuve,Ralf Schumacher,Williams BMW,01:34:31,69.0,2001
+2001-06-24,Europe,Germany,Nürburgring,Michael Schumacher,Ferrari,01:29:42,67.0,2001
+2001-07-01,Europe,France,Circuit de Nevers Magny Cours,Michael Schumacher,Ferrari,01:33:35,72.0,2001
+2001-07-15,Europe,Great Britain,Silverstone Circuit,Mika Hakkinen,McLaren Mercedes,01:25:33,60.0,2001
+2001-07-29,Europe,Germany,Hockenheimring,Ralf Schumacher,Williams BMW,01:18:17,45.0,2001
+2001-08-19,Europe,Hungary,Hungaroring,Michael Schumacher,Ferrari,01:41:49,77.0,2001
+2001-09-02,Europe,Belgium,Circuit de Spa Francorchamps,Michael Schumacher,Ferrari,01:08:05,36.0,2001
+2001-09-16,Europe,Italy,Autodromo Nazionale di Monza,Juan Pablo Montoya,Williams BMW,01:16:58,53.0,2001
+2001-09-30,North America,United States,Indianapolis Motor Speedway,Mika Hakkinen,McLaren Mercedes,01:32:42,73.0,2001
+2001-10-14,Asia,Japan,Suzuka International Racing Course,Michael Schumacher,Ferrari,01:27:33,53.0,2001
+2002-03-03,Oceania,Australia,Albert Park Circuit,Michael Schumacher,Ferrari,01:35:36,58.0,2002
+2002-03-17,Asia,Malaysia,Sepang International Circuit,Ralf Schumacher,Williams BMW,01:34:12,56.0,2002
+2002-03-31,South America,Brazil,Autodromo José Carlos Pace,Michael Schumacher,Ferrari,01:31:43,71.0,2002
+2002-04-14,Europe,San Marino,Imola,Michael Schumacher,Ferrari,01:29:10,62.0,2002
+2002-04-28,Europe,Spain,Circuit de Barcelona Catalunya,Michael Schumacher,Ferrari,01:30:29,65.0,2002
+2002-05-12,Europe,Austria,Red Bull Ring,Michael Schumacher,Ferrari,01:33:51,71.0,2002
+2002-05-26,Europe,Monaco,Circuit de Monaco,David Coulthard,McLaren Mercedes,01:45:39,78.0,2002
+2002-06-09,North America,Canada,Circuit Gilles Villeneuve,Michael Schumacher,Ferrari,01:33:36,70.0,2002
+2002-06-23,Europe,Germany,Nürburgring,Rubens Barrichello,Ferrari,01:35:07,60.0,2002
+2002-07-07,Europe,Great Britain,Silverstone Circuit,Michael Schumacher,Ferrari,01:31:45,60.0,2002
+2002-07-21,Europe,France,Circuit de Nevers Magny Cours,Michael Schumacher,Ferrari,01:32:09,72.0,2002
+2002-07-28,Europe,Germany,Hockenheimring,Michael Schumacher,Ferrari,01:27:52,67.0,2002
+2002-08-18,Europe,Hungary,Hungaroring,Rubens Barrichello,Ferrari,01:41:49,77.0,2002
+2002-09-01,Europe,Belgium,Circuit de Spa Francorchamps,Michael Schumacher,Ferrari,01:21:20,44.0,2002
+2002-09-15,Europe,Italy,Autodromo Nazionale di Monza,Rubens Barrichello,Ferrari,01:16:19,53.0,2002
+2002-09-29,North America,United States,Indianapolis Motor Speedway,Rubens Barrichello,Ferrari,01:31:07,73.0,2002
+2002-10-13,Asia,Japan,Suzuka International Racing Course,Michael Schumacher,Ferrari,01:26:59,53.0,2002
+2003-03-09,Oceania,Australia,Albert Park Circuit,David Coulthard,McLaren Mercedes,01:34:42,58.0,2003
+2003-03-23,Asia,Malaysia,Sepang International Circuit,Kimi Raikkonen,McLaren Mercedes,01:32:22,56.0,2003
+2003-04-06,South America,Brazil,Autodromo José Carlos Pace,Giancarlo Fisichella,Jordan Ford,01:31:17,54.0,2003
+2003-04-20,Europe,San Marino,Imola,Michael Schumacher,Ferrari,01:28:12,62.0,2003
+2003-05-04,Europe,Spain,Circuit de Barcelona Catalunya,Michael Schumacher,Ferrari,01:33:46,65.0,2003
+2003-05-18,Europe,Austria,Red Bull Ring,Michael Schumacher,Ferrari,01:24:04,69.0,2003
+2003-06-01,Europe,Monaco,Circuit de Monaco,Juan Pablo Montoya,Williams BMW,01:42:19,78.0,2003
+2003-06-15,North America,Canada,Circuit Gilles Villeneuve,Michael Schumacher,Ferrari,01:31:13,70.0,2003
+2003-06-29,Europe,Germany,Nürburgring,Ralf Schumacher,Williams BMW,01:34:43,60.0,2003
+2003-07-06,Europe,France,Circuit de Nevers Magny Cours,Ralf Schumacher,Williams BMW,01:30:49,70.0,2003
+2003-07-20,Europe,Great Britain,Silverstone Circuit,Rubens Barrichello,Ferrari,01:28:37,60.0,2003
+2003-08-03,Europe,Germany,Hockenheimring,Juan Pablo Montoya,Williams BMW,01:28:48,67.0,2003
+2003-08-24,Europe,Hungary,Hungaroring,Fernando Alonso,Renault,01:39:01,70.0,2003
+2003-09-14,Europe,Italy,Autodromo Nazionale di Monza,Michael Schumacher,Ferrari,01:14:19,53.0,2003
+2003-09-28,North America,United States,Indianapolis Motor Speedway,Michael Schumacher,Ferrari,01:33:35,73.0,2003
+2003-10-12,Asia,Japan,Suzuka International Racing Course,Rubens Barrichello,Ferrari,01:25:11,53.0,2003
+2004-03-07,Oceania,Australia,Albert Park Circuit,Michael Schumacher,Ferrari,01:24:15,58.0,2004
+2004-03-21,Asia,Malaysia,Sepang International Circuit,Michael Schumacher,Ferrari,01:31:07,56.0,2004
+2004-04-04,Asia,Sakhir,Bahrain International Circuit,Michael Schumacher,Ferrari,01:28:34,57.0,2004
+2004-04-25,Europe,San Marino,Imola,Michael Schumacher,Ferrari,01:26:19,62.0,2004
+2004-05-09,Europe,Spain,Circuit de Barcelona Catalunya,Michael Schumacher,Ferrari,01:27:32,66.0,2004
+2004-05-23,Europe,Monaco,Circuit de Monaco,Jarno Trulli,Renault,01:45:46,77.0,2004
+2004-05-30,Europe,Germany,Nürburgring,Michael Schumacher,Ferrari,01:32:35,60.0,2004
+2004-06-13,North America,Canada,Circuit Gilles Villeneuve,Michael Schumacher,Ferrari,01:28:24,70.0,2004
+2004-06-20,North America,United States,Indianapolis Motor Speedway,Michael Schumacher,Ferrari,01:40:29,73.0,2004
+2004-07-04,Europe,France,Circuit de Nevers Magny Cours,Michael Schumacher,Ferrari,01:30:18,70.0,2004
+2004-07-11,Europe,Great Britain,Silverstone Circuit,Michael Schumacher,Ferrari,01:24:42,60.0,2004
+2004-07-25,Europe,Germany,Hockenheimring,Michael Schumacher,Ferrari,01:23:54,66.0,2004
+2004-08-15,Europe,Hungary,Hungaroring,Michael Schumacher,Ferrari,01:35:26,70.0,2004
+2004-08-29,Europe,Belgium,Circuit de Spa Francorchamps,Kimi Raikkonen,McLaren Mercedes,01:32:35,44.0,2004
+2004-09-12,Europe,Italy,Autodromo Nazionale di Monza,Rubens Barrichello,Ferrari,01:15:18,53.0,2004
+2004-09-26,Asia,China,Shanghai International Circuit,Rubens Barrichello,Ferrari,01:29:12,56.0,2004
+2004-10-10,Asia,Japan,Suzuka International Racing Course,Michael Schumacher,Ferrari,01:24:26,53.0,2004
+2004-10-24,South America,Brazil,Autodromo José Carlos Pace,Juan Pablo Montoya,Williams BMW,01:28:01,71.0,2004
+2005-03-06,Oceania,Australia,Albert Park Circuit,Giancarlo Fisichella,Renault,01:24:17,57.0,2005
+2005-03-20,Asia,Malaysia,Sepang International Circuit,Fernando Alonso,Renault,01:31:33,56.0,2005
+2005-04-03,Asia,Sakhir,Bahrain International Circuit,Fernando Alonso,Renault,01:29:18,57.0,2005
+2005-04-24,Europe,San Marino,Imola,Fernando Alonso,Renault,01:27:41,62.0,2005
+2005-05-08,Europe,Spain,Circuit de Barcelona Catalunya,Kimi Raikkonen,McLaren Mercedes,01:27:16,66.0,2005
+2005-05-22,Europe,Monaco,Circuit de Monaco,Kimi Raikkonen,McLaren Mercedes,01:45:15,78.0,2005
+2005-05-29,Europe,Germany,Nürburgring,Fernando Alonso,Renault,01:31:46,59.0,2005
+2005-06-12,North America,Canada,Circuit Gilles Villeneuve,Kimi Raikkonen,McLaren Mercedes,01:32:09,70.0,2005
+2005-06-19,North America,United States,Indianapolis Motor Speedway,Michael Schumacher,Ferrari,01:29:43,73.0,2005
+2005-07-03,Europe,France,Circuit de Nevers Magny Cours,Fernando Alonso,Renault,01:31:22,70.0,2005
+2005-07-10,Europe,Great Britain,Silverstone Circuit,Juan Pablo Montoya,McLaren Mercedes,01:24:29,60.0,2005
+2005-07-24,Europe,Germany,Hockenheimring,Fernando Alonso,Renault,01:26:28,67.0,2005
+2005-07-31,Europe,Hungary,Hungaroring,Kimi Raikkonen,McLaren Mercedes,01:37:25,70.0,2005
+2005-08-21,Asia,Turkiye,Istanbul Park,Kimi Raikkonen,McLaren Mercedes,01:24:34,58.0,2005
+2005-09-04,Europe,Italy,Autodromo Nazionale di Monza,Juan Pablo Montoya,McLaren Mercedes,01:14:28,53.0,2005
+2005-09-11,Europe,Belgium,Circuit de Spa Francorchamps,Kimi Raikkonen,McLaren Mercedes,01:30:01,44.0,2005
+2005-09-25,South America,Brazil,Autodromo José Carlos Pace,Juan Pablo Montoya,McLaren Mercedes,01:29:20,71.0,2005
+2005-10-09,Asia,Japan,Suzuka International Racing Course,Kimi Raikkonen,McLaren Mercedes,01:29:02,53.0,2005
+2005-10-16,Asia,China,Shanghai International Circuit,Fernando Alonso,Renault,01:39:53,56.0,2005
+2006-03-12,Asia,Sakhir,Bahrain International Circuit,Fernando Alonso,Renault,01:29:46,57.0,2006
+2006-03-19,Asia,Malaysia,Sepang International Circuit,Giancarlo Fisichella,Renault,01:30:40,56.0,2006
+2006-04-02,Oceania,Australia,Albert Park Circuit,Fernando Alonso,Renault,01:34:27,57.0,2006
+2006-04-23,Europe,San Marino,Imola,Michael Schumacher,Ferrari,01:31:06,62.0,2006
+2006-05-07,Europe,Germany,Nürburgring,Michael Schumacher,Ferrari,01:35:58,60.0,2006
+2006-05-14,Europe,Spain,Circuit de Barcelona Catalunya,Fernando Alonso,Renault,01:26:21,66.0,2006
+2006-05-28,Europe,Monaco,Circuit de Monaco,Fernando Alonso,Renault,01:43:43,78.0,2006
+2006-06-11,Europe,Great Britain,Silverstone Circuit,Fernando Alonso,Renault,01:25:51,60.0,2006
+2006-06-25,North America,Canada,Circuit Gilles Villeneuve,Fernando Alonso,Renault,01:34:37,70.0,2006
+2006-07-02,North America,United States,Indianapolis Motor Speedway,Michael Schumacher,Ferrari,01:34:35,73.0,2006
+2006-07-16,Europe,France,Circuit de Nevers Magny Cours,Michael Schumacher,Ferrari,01:32:07,70.0,2006
+2006-07-30,Europe,Germany,Hockenheimring,Michael Schumacher,Ferrari,01:27:51,67.0,2006
+2006-08-06,Europe,Hungary,Hungaroring,Jenson Button,Honda,01:52:20,70.0,2006
+2006-08-27,Asia,Turkiye,Istanbul Park,Felipe Massa,Ferrari,01:28:51,58.0,2006
+2006-09-10,Europe,Italy,Autodromo Nazionale di Monza,Michael Schumacher,Ferrari,01:14:51,53.0,2006
+2006-10-01,Asia,China,Shanghai International Circuit,Michael Schumacher,Ferrari,01:37:32,56.0,2006
+2006-10-08,Asia,Japan,Suzuka International Racing Course,Fernando Alonso,Renault,01:23:53,53.0,2006
+2006-10-22,South America,Brazil,Autodromo José Carlos Pace,Felipe Massa,Ferrari,01:31:53,71.0,2006
+2007-03-18,Oceania,Australia,Albert Park Circuit,Kimi Raikkonen,Ferrari,01:25:28,58.0,2007
+2007-04-08,Asia,Malaysia,Sepang International Circuit,Fernando Alonso,McLaren Mercedes,01:32:14,56.0,2007
+2007-04-15,Asia,Sakhir,Bahrain International Circuit,Felipe Massa,Ferrari,01:33:27,57.0,2007
+2007-05-13,Europe,Spain,Circuit de Barcelona Catalunya,Felipe Massa,Ferrari,01:31:36,65.0,2007
+2007-05-27,Europe,Monaco,Circuit de Monaco,Fernando Alonso,McLaren Mercedes,01:40:29,78.0,2007
+2007-06-10,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,McLaren Mercedes,01:44:11,70.0,2007
+2007-06-17,North America,United States,Indianapolis Motor Speedway,Lewis Hamilton,McLaren Mercedes,01:31:09,73.0,2007
+2007-07-01,Europe,France,Circuit de Nevers Magny Cours,Kimi Raikkonen,Ferrari,01:30:54,70.0,2007
+2007-07-08,Europe,Great Britain,Silverstone Circuit,Kimi Raikkonen,Ferrari,01:21:43,59.0,2007
+2007-07-22,Europe,Germany,Nürburgring,Fernando Alonso,McLaren Mercedes,02:06:26,60.0,2007
+2007-08-05,Europe,Hungary,Hungaroring,Lewis Hamilton,McLaren Mercedes,01:35:52,70.0,2007
+2007-08-26,Asia,Turkiye,Istanbul Park,Felipe Massa,Ferrari,01:26:42,58.0,2007
+2007-09-09,Europe,Italy,Autodromo Nazionale di Monza,Fernando Alonso,McLaren Mercedes,01:18:37,53.0,2007
+2007-09-16,Europe,Belgium,Circuit de Spa Francorchamps,Kimi Raikkonen,Ferrari,01:20:39,44.0,2007
+2007-09-30,Asia,Japan,Fuji Speedway,Lewis Hamilton,McLaren Mercedes,02:00:34,67.0,2007
+2007-10-07,Asia,China,Shanghai International Circuit,Kimi Raikkonen,Ferrari,01:37:58,56.0,2007
+2007-10-21,South America,Brazil,Autodromo José Carlos Pace,Kimi Raikkonen,Ferrari,01:28:15,71.0,2007
+2008-03-16,Oceania,Australia,Albert Park Circuit,Lewis Hamilton,McLaren Mercedes,01:34:50,58.0,2008
+2008-03-23,Asia,Malaysia,Sepang International Circuit,Kimi Raikkonen,Ferrari,01:31:18,56.0,2008
+2008-04-06,Asia,Sakhir,Bahrain International Circuit,Felipe Massa,Ferrari,01:31:06,57.0,2008
+2008-04-27,Europe,Spain,Circuit de Barcelona Catalunya,Kimi Raikkonen,Ferrari,01:38:19,66.0,2008
+2008-05-11,Asia,Turkiye,Istanbul Park,Felipe Massa,Ferrari,01:26:49,58.0,2008
+2008-05-25,Europe,Monaco,Circuit de Monaco,Lewis Hamilton,McLaren Mercedes,02:00:42,76.0,2008
+2008-06-08,North America,Canada,Circuit Gilles Villeneuve,Robert Kubica,Sauber BMW,01:36:24,70.0,2008
+2008-06-22,Europe,France,Circuit de Nevers Magny Cours,Felipe Massa,Ferrari,01:31:50,70.0,2008
+2008-07-06,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,McLaren Mercedes,01:39:09,60.0,2008
+2008-07-20,Europe,Germany,Hockenheimring,Lewis Hamilton,McLaren Mercedes,01:31:20,67.0,2008
+2008-08-03,Europe,Hungary,Hungaroring,Heikki Kovalainen,McLaren Mercedes,01:37:27,70.0,2008
+2008-08-24,Europe,Spain,Circuit de Barcelona Catalunya,Felipe Massa,Ferrari,01:35:32,57.0,2008
+2008-09-07,Europe,Belgium,Circuit de Spa Francorchamps,Felipe Massa,Ferrari,01:22:59,44.0,2008
+2008-09-14,Europe,Italy,Autodromo Nazionale di Monza,Sebastian Vettel,STR Ferrari,01:26:47,53.0,2008
+2008-09-28,Asia,Singapore,Marina Bay Street Circuit,Fernando Alonso,Renault,01:57:16,61.0,2008
+2008-10-12,Asia,Japan,Fuji Speedway,Fernando Alonso,Renault,01:30:21,67.0,2008
+2008-10-19,Asia,China,Shanghai International Circuit,Lewis Hamilton,McLaren Mercedes,01:31:57,56.0,2008
+2008-11-02,South America,Brazil,Autodromo José Carlos Pace,Felipe Massa,Ferrari,01:34:11,71.0,2008
+2009-03-29,Oceania,Australia,Albert Park Circuit,Jenson Button,Brawn Mercedes,01:34:15,58.0,2009
+2009-04-05,Asia,Malaysia,Sepang International Circuit,Jenson Button,Brawn Mercedes,55:30,31.0,2009
+2009-04-19,Asia,China,Shanghai International Circuit,Sebastian Vettel,RBR Renault,01:57:43,56.0,2009
+2009-04-26,Asia,Sakhir,Bahrain International Circuit,Jenson Button,Brawn Mercedes,01:31:48,57.0,2009
+2009-05-10,Europe,Spain,Circuit de Barcelona Catalunya,Jenson Button,Brawn Mercedes,01:37:19,66.0,2009
+2009-05-24,Europe,Monaco,Circuit de Monaco,Jenson Button,Brawn Mercedes,01:40:44,78.0,2009
+2009-06-07,Asia,Turkiye,Istanbul Park,Jenson Button,Brawn Mercedes,01:26:24,58.0,2009
+2009-06-21,Europe,Great Britain,Silverstone Circuit,Sebastian Vettel,RBR Renault,01:22:49,60.0,2009
+2009-07-12,Europe,Germany,Nürburgring,Mark Webber,RBR Renault,01:36:43,60.0,2009
+2009-07-26,Europe,Hungary,Hungaroring,Lewis Hamilton,McLaren Mercedes,01:38:23,70.0,2009
+2009-08-23,Europe,Spain,Valencia Street Circuit,Rubens Barrichello,Brawn Mercedes,01:35:51,57.0,2009
+2009-08-30,Europe,Belgium,Circuit de Spa Francorchamps,Kimi Raikkonen,Ferrari,01:23:50,44.0,2009
+2009-09-13,Europe,Italy,Autodromo Nazionale di Monza,Rubens Barrichello,Brawn Mercedes,01:16:21,53.0,2009
+2009-09-27,Asia,Singapore,Marina Bay Street Circuit,Lewis Hamilton,McLaren Mercedes,01:56:06,61.0,2009
+2009-10-04,Asia,Japan,Suzuka International Racing Course,Sebastian Vettel,RBR Renault,01:28:20,53.0,2009
+2009-10-18,South America,Brazil,Autodromo José Carlos Pace,Mark Webber,RBR Renault,01:32:23,71.0,2009
+2009-11-01,Asia,Abu Dhabi,Yas Marina Circuit,Sebastian Vettel,RBR Renault,01:34:03,55.0,2009
+2010-03-14,Asia,Sakhir,Bahrain International Circuit,Fernando Alonso,Ferrari,01:39:20,49.0,2010
+2010-03-28,Oceania,Australia,Albert Park Circuit,Jenson Button,McLaren Mercedes,01:33:36,58.0,2010
+2010-04-04,Asia,Malaysia,Sepang International Circuit,Sebastian Vettel,RBR Renault,01:33:48,56.0,2010
+2010-04-18,Asia,China,Shanghai International Circuit,Jenson Button,McLaren Mercedes,01:46:42,56.0,2010
+2010-05-09,Europe,Spain,Circuit de Barcelona Catalunya,Mark Webber,RBR Renault,01:35:44,66.0,2010
+2010-05-16,Europe,Monaco,Circuit de Monaco,Mark Webber,RBR Renault,01:50:13,78.0,2010
+2010-05-30,Asia,Turkiye,Istanbul Park,Lewis Hamilton,McLaren Mercedes,01:28:47,58.0,2010
+2010-06-13,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,McLaren Mercedes,01:33:53,70.0,2010
+2010-06-27,Europe,Spain,Valencia Street Circuit,Sebastian Vettel,RBR Renault,01:40:29,57.0,2010
+2010-07-11,Europe,Great Britain,Silverstone Circuit,Mark Webber,RBR Renault,01:24:38,52.0,2010
+2010-07-25,Europe,Germany,Hockenheimring,Fernando Alonso,Ferrari,01:27:38,67.0,2010
+2010-08-01,Europe,Hungary,Hungaroring,Mark Webber,RBR Renault,01:41:05,70.0,2010
+2010-08-29,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,McLaren Mercedes,01:29:04,44.0,2010
+2010-09-12,Europe,Italy,Autodromo Nazionale di Monza,Fernando Alonso,Ferrari,01:16:24,53.0,2010
+2010-09-26,Asia,Singapore,Marina Bay Street Circuit,Fernando Alonso,Ferrari,01:57:53,61.0,2010
+2010-10-10,Asia,Japan,Suzuka International Racing Course,Sebastian Vettel,RBR Renault,01:30:27,53.0,2010
+2010-10-24,Asia,South Korea,Korea International Circuit,Fernando Alonso,Ferrari,02:48:20,55.0,2010
+2010-11-07,South America,Brazil,Autodromo José Carlos Pace,Sebastian Vettel,RBR Renault,01:33:11,71.0,2010
+2010-11-14,Asia,Abu Dhabi,Yas Marina Circuit,Sebastian Vettel,RBR Renault,01:39:36,55.0,2010
+2011-03-27,Oceania,Australia,Albert Park Circuit,Sebastian Vettel,Red Bull Racing Renault,01:29:30,58.0,2011
+2011-04-10,Asia,Malaysia,Sepang International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:37:39,56.0,2011
+2011-04-17,Asia,China,Shanghai International Circuit,Lewis Hamilton,McLaren Mercedes,01:36:58,56.0,2011
+2011-05-08,Asia,Turkiye,Istanbul Park,Sebastian Vettel,Red Bull Racing Renault,01:30:17,58.0,2011
+2011-05-22,Europe,Spain,Circuit de Barcelona Catalunya,Sebastian Vettel,Red Bull Racing Renault,01:39:03,66.0,2011
+2011-05-29,Europe,Monaco,Circuit de Monaco,Sebastian Vettel,Red Bull Racing Renault,02:09:38,78.0,2011
+2011-06-12,North America,Canada,Circuit Gilles Villeneuve,Jenson Button,McLaren Mercedes,04:04:39,70.0,2011
+2011-06-26,Europe,Spain,Valencia Street Circuit,Sebastian Vettel,Red Bull Racing Renault,01:39:36,57.0,2011
+2011-07-10,Europe,Great Britain,Silverstone Circuit,Fernando Alonso,Ferrari,01:28:41,52.0,2011
+2011-07-24,Europe,Germany,Nürburgring,Lewis Hamilton,McLaren Mercedes,01:37:30,60.0,2011
+2011-07-31,Europe,Hungary,Hungaroring,Jenson Button,McLaren Mercedes,01:46:42,70.0,2011
+2011-08-28,Europe,Belgium,Circuit de Spa Francorchamps,Sebastian Vettel,Red Bull Racing Renault,01:26:44,44.0,2011
+2011-09-11,Europe,Italy,Autodromo Nazionale di Monza,Sebastian Vettel,Red Bull Racing Renault,01:20:46,53.0,2011
+2011-09-25,Asia,Singapore,Marina Bay Street Circuit,Sebastian Vettel,Red Bull Racing Renault,01:59:06,61.0,2011
+2011-10-09,Asia,Japan,Suzuka International Racing Course,Jenson Button,McLaren Mercedes,01:30:53,53.0,2011
+2011-10-16,Asia,South Korea,Korea International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:38:01,55.0,2011
+2011-10-30,Asia,India,Buddh International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:30:35,60.0,2011
+2011-11-13,Asia,Abu Dhabi,Yas Marina Circuit,Lewis Hamilton,McLaren Mercedes,01:37:11,55.0,2011
+2011-11-27,South America,Brazil,Autodromo José Carlos Pace,Mark Webber,Red Bull Racing Renault,01:32:17,71.0,2011
+2012-03-18,Oceania,Australia,Albert Park Circuit,Jenson Button,McLaren Mercedes,01:34:09,58.0,2012
+2012-03-25,Asia,Malaysia,Sepang International Circuit,Fernando Alonso,Ferrari,02:44:51,56.0,2012
+2012-04-15,Asia,China,Shanghai International Circuit,Nico Rosberg,Mercedes,01:36:26,56.0,2012
+2012-04-22,Asia,Sakhir,Bahrain International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:35:10,57.0,2012
+2012-05-13,Europe,Spain,Valencia Street Circuit,Pastor Maldonado,Williams Renault,01:39:09,66.0,2012
+2012-05-27,Europe,Monaco,Circuit de Monaco,Mark Webber,Red Bull Racing Renault,01:46:06,78.0,2012
+2012-06-10,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,McLaren Mercedes,01:32:29,70.0,2012
+2012-06-24,Europe,Spain,Valencia Street Circuit,Fernando Alonso,Ferrari,01:44:16,57.0,2012
+2012-07-08,Europe,Great Britain,Silverstone Circuit,Mark Webber,Red Bull Racing Renault,01:25:11,52.0,2012
+2012-07-22,Europe,Germany,Hockenheimring,Fernando Alonso,Ferrari,01:31:05,67.0,2012
+2012-07-29,Europe,Hungary,Hungaroring,Lewis Hamilton,McLaren Mercedes,01:41:05,69.0,2012
+2012-09-02,Europe,Belgium,Circuit de Spa Francorchamps,Jenson Button,McLaren Mercedes,01:29:08,44.0,2012
+2012-09-09,Europe,Italy,Autodromo Nazionale di Monza,Lewis Hamilton,McLaren Mercedes,01:19:41,53.0,2012
+2012-09-23,Asia,Singapore,Marina Bay Street Circuit,Sebastian Vettel,Red Bull Racing Renault,02:00:26,59.0,2012
+2012-10-07,Asia,Japan,Suzuka International Racing Course,Sebastian Vettel,Red Bull Racing Renault,01:28:56,53.0,2012
+2012-10-14,Asia,South Korea,Korea International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:36:28,55.0,2012
+2012-10-28,Asia,India,Buddh International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:31:10,60.0,2012
+2012-11-04,Asia,Abu Dhabi,Yas Marina Circuit,Kimi Raikkonen,Lotus Renault,01:45:58,55.0,2012
+2012-11-18,North America,United States,Circuit of the Americas,Lewis Hamilton,McLaren Mercedes,01:35:55,56.0,2012
+2012-11-25,South America,Brazil,Autodromo José Carlos Pace,Jenson Button,McLaren Mercedes,01:45:22,71.0,2012
+2013-03-17,Oceania,Australia,Albert Park Circuit,Kimi Raikkonen,Lotus Renault,01:30:03,58.0,2013
+2013-03-24,Asia,Malaysia,Sepang International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:38:56,56.0,2013
+2013-04-14,Asia,China,Shanghai International Circuit,Fernando Alonso,Ferrari,01:36:26,56.0,2013
+2013-04-21,Asia,Sakhir,Bahrain International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:36:00,57.0,2013
+2013-05-12,Europe,Spain,Circuit de Barcelona Catalunya,Fernando Alonso,Ferrari,01:39:16,66.0,2013
+2013-05-26,Europe,Monaco,Circuit de Monaco,Nico Rosberg,Mercedes,02:17:52,78.0,2013
+2013-06-09,North America,Canada,Circuit Gilles Villeneuve,Sebastian Vettel,Red Bull Racing Renault,01:32:09,70.0,2013
+2013-06-30,Europe,Great Britain,Silverstone Circuit,Nico Rosberg,Mercedes,01:32:59,52.0,2013
+2013-07-07,Europe,Germany,Nürburgring,Sebastian Vettel,Red Bull Racing Renault,01:41:14,60.0,2013
+2013-07-28,Europe,Hungary,Hungaroring,Lewis Hamilton,Mercedes,01:42:29,70.0,2013
+2013-08-25,Europe,Belgium,Circuit de Spa Francorchamps,Sebastian Vettel,Red Bull Racing Renault,01:23:42,44.0,2013
+2013-09-08,Europe,Italy,Autodromo Nazionale di Monza,Sebastian Vettel,Red Bull Racing Renault,01:18:33,53.0,2013
+2013-09-22,Asia,Singapore,Marina Bay Street Circuit,Sebastian Vettel,Red Bull Racing Renault,01:59:13,61.0,2013
+2013-10-06,Asia,South Korea,Korea International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:43:13,55.0,2013
+2013-10-13,Asia,Japan,Suzuka International Racing Course,Sebastian Vettel,Red Bull Racing Renault,01:26:49,53.0,2013
+2013-10-27,Asia,India,Buddh International Circuit,Sebastian Vettel,Red Bull Racing Renault,01:31:12,60.0,2013
+2013-11-03,Asia,Abu Dhabi,Yas Marina Circuit,Sebastian Vettel,Red Bull Racing Renault,01:38:06,55.0,2013
+2013-11-17,North America,United States,Circuit of the Americas,Sebastian Vettel,Red Bull Racing Renault,01:39:17,56.0,2013
+2013-11-24,South America,Brazil,Autodromo José Carlos Pace,Sebastian Vettel,Red Bull Racing Renault,01:32:36,71.0,2013
+2014-03-16,Oceania,Australia,Albert Park Circuit,Nico Rosberg,Mercedes,01:32:58,57.0,2014
+2014-03-30,Asia,Malaysia,Sepang International Circuit,Lewis Hamilton,Mercedes,01:40:25,56.0,2014
+2014-04-06,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,01:39:42,57.0,2014
+2014-04-20,Asia,China,Shanghai International Circuit,Lewis Hamilton,Mercedes,01:33:28,54.0,2014
+2014-05-11,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:41:05,66.0,2014
+2014-05-25,Europe,Monaco,Circuit de Monaco,Nico Rosberg,Mercedes,01:49:27,78.0,2014
+2014-06-08,North America,Canada,Circuit Gilles Villeneuve,Daniel Ricciardo,Red Bull Racing Renault,01:39:12,70.0,2014
+2014-06-22,Europe,Austria,Red Bull Ring,Nico Rosberg,Mercedes,01:27:54,71.0,2014
+2014-07-06,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,02:26:52,52.0,2014
+2014-07-20,Europe,Germany,Hockenheimring,Nico Rosberg,Mercedes,01:33:42,67.0,2014
+2014-07-27,Europe,Hungary,Hungaroring,Daniel Ricciardo,Red Bull Racing Renault,01:53:05,70.0,2014
+2014-08-24,Europe,Belgium,Circuit de Spa Francorchamps,Daniel Ricciardo,Red Bull Racing Renault,01:24:36,44.0,2014
+2014-09-07,Europe,Italy,Autodromo Nazionale di Monza,Lewis Hamilton,Mercedes,01:19:10,53.0,2014
+2014-09-21,Asia,Singapore,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,02:00:04,60.0,2014
+2014-10-05,Asia,Japan,Suzuka International Racing Course,Lewis Hamilton,Mercedes,01:51:43,44.0,2014
+2014-10-21,Europe,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,01:31:50,53.0,2014
+2014-11-02,North America,United States,Circuit of the Americas,Lewis Hamilton,Mercedes,01:40:04,56.0,2014
+2014-11-09,South America,Brazil,Autodromo José Carlos Pace,Nico Rosberg,Mercedes,01:30:02,71.0,2014
+2014-11-23,Asia,Abu Dhabi,Yas Marina Circuit,Lewis Hamilton,Mercedes,01:39:02,55.0,2014
+2015-03-15,Oceania,Australia,Albert Park Circuit,Lewis Hamilton,Mercedes,01:31:54,58.0,2015
+2015-03-29,Asia,Malaysia,Sepang International Circuit,Sebastian Vettel,Ferrari,01:41:05,56.0,2015
+2015-04-12,Asia,China,Shanghai International Circuit,Lewis Hamilton,Mercedes,01:39:42,56.0,2015
+2015-04-19,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,01:35:05,57.0,2015
+2015-05-10,Europe,Spain,Circuit de Barcelona Catalunya,Nico Rosberg,Mercedes,01:41:12,66.0,2015
+2015-05-24,Europe,Monaco,Circuit de Monaco,Nico Rosberg,Mercedes,01:49:18,78.0,2015
+2015-06-07,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,01:31:53,70.0,2015
+2015-06-21,Europe,Austria,Red Bull Ring,Nico Rosberg,Mercedes,01:30:16,71.0,2015
+2015-07-05,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:31:27,52.0,2015
+2015-07-26,Europe,Hungary,Hungaroring,Sebastian Vettel,Ferrari,01:46:09,69.0,2015
+2015-08-23,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,Mercedes,01:23:40,43.0,2015
+2015-09-06,Europe,Italy,Autodromo Nazionale di Monza,Lewis Hamilton,Mercedes,01:18:00,53.0,2015
+2015-09-20,Asia,Singapore,Marina Bay Street Circuit,Sebastian Vettel,Ferrari,02:01:22,61.0,2015
+2015-09-27,Asia,Japan,Suzuka International Racing Course,Lewis Hamilton,Mercedes,01:28:06,53.0,2015
+2015-10-11,Europe,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,01:37:11,53.0,2015
+2015-10-25,North America,United States,Circuit of the Americas,Lewis Hamilton,Mercedes,01:50:52,56.0,2015
+2015-11-01,North America,Mexico,Autódromo Hermanos Rodríguez,Nico Rosberg,Mercedes,01:42:35,71.0,2015
+2015-11-15,South America,Brazil,Autodromo José Carlos Pace,Nico Rosberg,Mercedes,01:31:09,71.0,2015
+2015-11-29,Asia,Abu Dhabi,Yas Marina Circuit,Nico Rosberg,Mercedes,01:38:30,55.0,2015
+2016-03-20,Oceania,Australia,Albert Park Circuit,Nico Rosberg,Mercedes,01:48:15,57.0,2016
+2016-04-03,Asia,Sakhir,Bahrain International Circuit,Nico Rosberg,Mercedes,01:33:34,57.0,2016
+2016-04-17,Asia,China,Shanghai International Circuit,Nico Rosberg,Mercedes,01:38:53,56.0,2016
+2016-05-01,Europe,Russia,Sochi Autodrom,Nico Rosberg,Mercedes,01:32:41,53.0,2016
+2016-05-15,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing TAG Heuer,01:41:40,66.0,2016
+2016-05-29,Europe,Monaco,Circuit de Monaco,Lewis Hamilton,Mercedes,01:59:29,78.0,2016
+2016-06-12,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,01:31:05,70.0,2016
+2016-06-19,Asia,Azerbaijan,Baku City Circuit,Nico Rosberg,Mercedes,01:32:52,51.0,2016
+2016-07-03,Europe,Austria,Red Bull Ring,Lewis Hamilton,Mercedes,01:27:38,71.0,2016
+2016-07-10,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:34:55,52.0,2016
+2016-07-24,Europe,Hungary,Hungaroring,Lewis Hamilton,Mercedes,01:40:30,70.0,2016
+2016-07-31,Europe,Germany,Hockenheimring,Lewis Hamilton,Mercedes,01:30:44,67.0,2016
+2016-08-28,Europe,Belgium,Circuit de Spa Francorchamps,Nico Rosberg,Mercedes,01:44:51,44.0,2016
+2016-09-04,Europe,Italy,Autodromo Nazionale di Monza,Nico Rosberg,Mercedes,01:17:28,53.0,2016
+2016-09-18,Asia,Singapore,Marina Bay Street Circuit,Nico Rosberg,Mercedes,01:55:48,61.0,2016
+2016-10-02,Asia,Malaysia,Sepang International Circuit,Daniel Ricciardo,Red Bull Racing TAG Heuer,01:37:12,56.0,2016
+2016-10-09,Asia,Japan,Suzuka International Racing Course,Nico Rosberg,Mercedes,01:26:43,53.0,2016
+2016-10-23,North America,United States,Circuit of the Americas,Lewis Hamilton,Mercedes,01:38:12,56.0,2016
+2016-10-30,North America,Mexico,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,01:40:31,71.0,2016
+2016-11-13,South America,Brazil,Autodromo José Carlos Pace,Lewis Hamilton,Mercedes,03:01:01,71.0,2016
+2016-11-27,Asia,Abu Dhabi,Yas Marina Circuit,Lewis Hamilton,Mercedes,01:38:04,55.0,2016
+2017-03-26,Oceania,Australia,Albert Park Circuit,Sebastian Vettel,Ferrari,01:24:11,57.0,2017
+2017-04-09,Asia,China,Shanghai International Circuit,Lewis Hamilton,Mercedes,01:37:36,56.0,2017
+2017-04-16,Asia,Sakhir,Bahrain International Circuit,Sebastian Vettel,Ferrari,01:33:53,57.0,2017
+2017-04-30,Europe,Russia,Sochi Autodrom,Valtteri Bottas,Mercedes,01:28:08,52.0,2017
+2017-05-14,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:35:56,66.0,2017
+2017-05-28,Europe,Monaco,Circuit de Monaco,Sebastian Vettel,Ferrari,01:44:44,78.0,2017
+2017-06-11,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,01:33:05,70.0,2017
+2017-06-25,Asia,Azerbaijan,Baku City Circuit,Daniel Ricciardo,Red Bull Racing TAG Heuer,02:03:55,51.0,2017
+2017-07-09,Europe,Austria,Red Bull Ring,Valtteri Bottas,Mercedes,01:21:48,71.0,2017
+2017-07-16,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:21:27,51.0,2017
+2017-07-30,Europe,Hungary,Hungaroring,Sebastian Vettel,Ferrari,01:39:46,70.0,2017
+2017-08-27,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,Mercedes,01:24:42,44.0,2017
+2017-09-03,Europe,Italy,Autodromo Nazionale di Monza,Lewis Hamilton,Mercedes,01:15:32,53.0,2017
+2017-09-17,Asia,Singapore,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,02:03:23,58.0,2017
+2017-10-01,Asia,Malaysia,Sepang International Circuit,Max Verstappen,Red Bull Racing TAG Heuer,01:30:01,56.0,2017
+2017-10-08,Asia,Japan,Suzuka International Racing Course,Lewis Hamilton,Mercedes,01:27:31,53.0,2017
+2017-10-22,North America,United States,Circuit of the Americas,Lewis Hamilton,Mercedes,01:33:50,56.0,2017
+2017-10-29,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing TAG Heuer,01:36:26,71.0,2017
+2017-11-12,South America,Brazil,Autodromo José Carlos Pace,Sebastian Vettel,Ferrari,01:31:26,71.0,2017
+2017-11-26,Asia,Abu Dhabi,Yas Marina Circuit,Valtteri Bottas,Mercedes,01:34:14,55.0,2017
+2018-03-25,Oceania,Australia,Albert Park Circuit,Sebastian Vettel,Ferrari,01:29:33,58.0,2018
+2018-04-08,Asia,Sakhir,Bahrain International Circuit,Sebastian Vettel,Ferrari,01:32:01,57.0,2018
+2018-04-15,Asia,China,Shanghai International Circuit,Daniel Ricciardo,Red Bull Racing TAG Heuer,01:35:36,56.0,2018
+2018-04-29,Asia,Azerbaijan,Baku City Circuit,Lewis Hamilton,Mercedes,01:43:44,51.0,2018
+2018-05-13,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:35:29,66.0,2018
+2018-05-27,Europe,Monaco,Circuit de Monaco,Daniel Ricciardo,Red Bull Racing TAG Heuer,01:42:54,78.0,2018
+2018-06-10,North America,Canada,Circuit Gilles Villeneuve,Sebastian Vettel,Ferrari,01:28:31,68.0,2018
+2018-06-24,Europe,France,Circuit Paul Ricard,Lewis Hamilton,Mercedes,01:30:11,53.0,2018
+2018-07-01,Europe,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing TAG Heuer,01:21:56,71.0,2018
+2018-07-08,Europe,Great Britain,Silverstone Circuit,Sebastian Vettel,Ferrari,01:27:29,52.0,2018
+2018-07-22,Europe,Germany,Hockenheimring,Lewis Hamilton,Mercedes,01:32:29,67.0,2018
+2018-07-29,Europe,Hungary,Hungaroring,Lewis Hamilton,Mercedes,01:37:16,70.0,2018
+2018-08-26,Europe,Belgium,Circuit de Spa Francorchamps,Sebastian Vettel,Ferrari,01:23:34,44.0,2018
+2018-09-02,Europe,Italy,Autodromo Nazionale di Monza,Lewis Hamilton,Mercedes,01:16:54,53.0,2018
+2018-09-16,Asia,Singapore,Marina Bay Street Circuit,Lewis Hamilton,Mercedes,01:51:11,61.0,2018
+2018-09-30,Europe,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,01:27:25,53.0,2018
+2018-10-07,Asia,Japan,Suzuka International Racing Course,Lewis Hamilton,Mercedes,01:27:17,53.0,2018
+2018-10-21,North America,United States,Circuit of the Americas,Kimi Raikkonen,Ferrari,01:34:18,56.0,2018
+2018-10-28,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing TAG Heuer,01:38:28,71.0,2018
+2018-11-11,South America,Brazil,Autodromo José Carlos Pace,Lewis Hamilton,Mercedes,01:27:09,71.0,2018
+2018-11-25,Asia,Abu Dhabi,Yas Marina Circuit,Lewis Hamilton,Mercedes,01:39:40,55.0,2018
+2019-03-17,Oceania,Australia,Albert Park Circuit,Valtteri Bottas,Mercedes,01:25:27,58.0,2019
+2019-03-31,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,01:34:21,57.0,2019
+2019-04-14,Asia,China,Shanghai International Circuit,Lewis Hamilton,Mercedes,01:32:06,56.0,2019
+2019-04-28,Asia,Azerbaijan,Baku City Circuit,Valtteri Bottas,Mercedes,01:31:52,51.0,2019
+2019-05-12,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:35:50,66.0,2019
+2019-05-26,Europe,Monaco,Circuit de Monaco,Lewis Hamilton,Mercedes,01:43:28,78.0,2019
+2019-06-09,North America,Canada,Circuit Gilles Villeneuve,Lewis Hamilton,Mercedes,01:29:07,70.0,2019
+2019-06-23,Europe,France,Circuit Paul Ricard,Lewis Hamilton,Mercedes,01:24:31,53.0,2019
+2019-06-30,Europe,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,01:22:01,71.0,2019
+2019-07-14,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:21:08,52.0,2019
+2019-07-28,Europe,Germany,Hockenheimring,Max Verstappen,Red Bull Racing Honda,01:44:31,64.0,2019
+2019-08-04,Europe,Hungary,Hungaroring,Lewis Hamilton,Mercedes,01:35:03,70.0,2019
+2019-09-01,Europe,Belgium,Circuit de Spa Francorchamps,Charles Leclerc,Ferrari,01:23:45,44.0,2019
+2019-09-08,Europe,Italy,Autodromo Nazionale di Monza,Charles Leclerc,Ferrari,01:15:26,53.0,2019
+2019-09-22,Asia,Singapore,Marina Bay Street Circuit,Sebastian Vettel,Ferrari,01:58:33,61.0,2019
+2019-09-29,Europe,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,01:33:38,53.0,2019
+2019-10-13,Asia,Japan,Suzuka International Racing Course,Valtteri Bottas,Mercedes,01:21:46,52.0,2019
+2019-10-27,North America,Mexico,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,01:36:48,71.0,2019
+2019-11-03,North America,United States,Circuit of the Americas,Valtteri Bottas,Mercedes,01:33:55,56.0,2019
+2019-11-17,South America,Brazil,Autodromo José Carlos Pace,Max Verstappen,Red Bull Racing Honda,01:33:14,71.0,2019
+2019-12-01,Asia,Abu Dhabi,Yas Marina Circuit,Lewis Hamilton,Mercedes,01:34:05,55.0,2019
+2020-07-05,Europe,Austria,Red Bull Ring,Valtteri Bottas,Mercedes,01:30:55,71.0,2020
+2020-07-12,Europe,Styria,Red Bull Ring,Lewis Hamilton,Mercedes,01:22:50,71.0,2020
+2020-07-19,Europe,Hungary,Hungaroring,Lewis Hamilton,Mercedes,01:36:12,70.0,2020
+2020-08-02,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:28:01,52.0,2020
+2020-08-09,Europe,Great Britain,Silverstone Circuit,Max Verstappen,Red Bull Racing Honda,01:19:41,52.0,2020
+2020-08-16,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:31:45,66.0,2020
+2020-08-30,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,Mercedes,01:24:08,44.0,2020
+2020-09-06,Europe,Italy,Autodromo Nazionale di Monza,Pierre Gasly,AlphaTauri Honda,01:47:06,53.0,2020
+2020-09-13,Europe,Italy,Autodromo Internazionale del Mugello,Lewis Hamilton,Mercedes,02:19:35,59.0,2020
+2020-09-27,Europe,Russia,Sochi Autodrom,Valtteri Bottas,Mercedes,01:34:00,53.0,2020
+2020-10-11,Europe,Germany,Nürburgring,Lewis Hamilton,Mercedes,01:35:49,60.0,2020
+2020-10-25,Europe,Portugal,Algarve International Circuit,Lewis Hamilton,Mercedes,01:29:56,66.0,2020
+2020-11-01,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,01:28:32,63.0,2020
+2020-11-15,Asia,Turkiye,Istanbul Park,Lewis Hamilton,Mercedes,01:42:19,58.0,2020
+2020-11-29,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,02:59:47,57.0,2020
+2020-12-06,Asia,Sakhir,Bahrain International Circuit,Sergio Perez,Racing Point BWT Mercedes,01:31:15,87.0,2020
+2020-12-13,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda,01:36:28,55.0,2020
+2021-03-28,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,01:32:03,56.0,2021
+2021-04-18,Europe,Italy,Autodromo Nazionale di Monza,Max Verstappen,Red Bull Racing Honda,02:02:34,63.0,2021
+2021-05-02,Europe,Portugal,Algarve International Circuit,Lewis Hamilton,Mercedes,01:34:31,66.0,2021
+2021-05-09,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:33:07,66.0,2021
+2021-05-23,Europe,Monaco,Circuit de Monaco,Max Verstappen,Red Bull Racing Honda,01:38:56,78.0,2021
+2021-06-06,Asia,Azerbaijan,Baku City Circuit,Sergio Perez,Red Bull Racing Honda,02:13:36,51.0,2021
+2021-06-20,Europe,France,Circuit Paul Ricard,Max Verstappen,Red Bull Racing Honda,01:27:25,53.0,2021
+2021-06-27,Europe,Styria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,01:22:18,71.0,2021
+2021-07-04,Europe,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,01:23:54,71.0,2021
+2021-07-18,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:58:23,52.0,2021
+2021-08-01,Europe,Hungary,Hungaroring,Esteban Ocon,Alpine Renault,02:04:43,70.0,2021
+2021-08-29,Europe,Belgium,Circuit de Spa Francorchamps,Max Verstappen,Red Bull Racing Honda,3:27,1.0,2021
+2021-09-05,Europe,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing Honda,01:30:05,72.0,2021
+2021-09-12,Europe,Italy,Autodromo Nazionale di Monza,Daniel Ricciardo,McLaren Mercedes,01:21:54,53.0,2021
+2021-09-26,Europe,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,01:30:41,53.0,2021
+2021-10-10,Asia,Turkiye,Istanbul Park,Valtteri Bottas,Mercedes,01:31:04,58.0,2021
+2021-10-24,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing Honda,01:34:36,56.0,2021
+2021-11-07,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing Honda,01:38:39,71.0,2021
+2021-11-14,South America,Brazil,Autodromo José Carlos Pace,Lewis Hamilton,Mercedes,01:32:22,71.0,2021
+2021-11-21,Asia,Qatar,Lusail International Circuit,Lewis Hamilton,Mercedes,01:24:28,57.0,2021
+2021-12-05,Asia,Saudi Arabia,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,02:06:15,50.0,2021
+2021-12-12,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda,01:30:17,58.0,2021
+2022-03-20,Asia,Sakhir,Bahrain International Circuit,Charles Leclerc,Ferrari,01:37:33,57.0,2022
+2022-03-27,Asia,Saudi Arabia,Jeddah Corniche Circuit,Max Verstappen,Red Bull Racing RBPT,01:24:19,50.0,2022
+2022-04-10,Oceania,Australia,Albert Park Circuit,Charles Leclerc,Ferrari,01:27:46,58.0,2022
+2022-04-24,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing RBPT,01:32:07,63.0,2022
+2022-05-08,North America,United States,Miami International Autodrome,Max Verstappen,Red Bull Racing RBPT,01:34:24,57.0,2022
+2022-05-22,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing RBPT,01:37:20,66.0,2022
+2022-05-29,Europe,Monaco,Circuit de Monaco,Sergio Perez,Red Bull Racing RBPT,01:56:30,64.0,2022
+2022-06-12,Asia,Azerbaijan,Baku City Circuit,Max Verstappen,Red Bull Racing RBPT,01:34:05,51.0,2022
+2022-06-19,North America,Canada,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing RBPT,01:36:21,70.0,2022
+2022-07-03,Europe,Great Britain,Silverstone Circuit,Carlos Sainz,Ferrari,02:17:50,52.0,2022
+2022-07-10,Europe,Austria,Red Bull Ring,Charles Leclerc,Ferrari,01:24:24,71.0,2022
+2022-07-24,Europe,France,Circuit Paul Ricard,Max Verstappen,Red Bull Racing RBPT,01:30:02,53.0,2022
+2022-07-31,Europe,Hungary,Hungaroring,Max Verstappen,Red Bull Racing RBPT,01:39:35,70.0,2022
+2022-08-28,Europe,Belgium,Circuit de Spa Francorchamps,Max Verstappen,Red Bull Racing RBPT,01:25:52,44.0,2022
+2022-09-04,Europe,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing RBPT,01:36:42,72.0,2022
+2022-09-11,Europe,Italy,Autodromo Nazionale di Monza,Max Verstappen,Red Bull Racing RBPT,01:20:27,53.0,2022
+2022-10-02,Asia,Singapore,Marina Bay Street Circuit,Sergio Perez,Red Bull Racing RBPT,02:02:20,59.0,2022
+2022-10-09,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing RBPT,03:01:44,28.0,2022
+2022-10-23,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing RBPT,01:42:11,56.0,2022
+2022-10-30,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing RBPT,01:38:36,71.0,2022
+2022-11-13,South America,Brazil,Autodromo José Carlos Pace,George Russell,Mercedes,01:38:34,71.0,2022
+2022-11-20,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing RBPT,01:27:45,58.0,2022
+2023-03-05,Asia,Sakhir,Bahrain International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:33:56,57.0,2023
+2023-03-19,Asia,Saudi Arabia,Jeddah Corniche Circuit,Sergio Perez,Red Bull Racing Honda RBPT,01:21:14,50.0,2023
+2023-04-02,Oceania,Australia,Albert Park Circuit,Max Verstappen,Red Bull Racing Honda RBPT,02:32:38,58.0,2023
+2023-04-30,Asia,Azerbaijan,Baku City Circuit,Sergio Perez,Red Bull Racing Honda RBPT,01:32:42,51.0,2023
+2023-05-07,North America,United States,Miami International Autodrome,Max Verstappen,Red Bull Racing Honda RBPT,01:27:38,57.0,2023
+2023-05-28,Europe,Monaco,Circuit de Monaco,Max Verstappen,Red Bull Racing Honda RBPT,01:48:51,78.0,2023
+2023-06-04,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing Honda RBPT,01:27:57,66.0,2023
+2023-06-18,North America,Canada,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing Honda RBPT,01:33:58,70.0,2023
+2023-07-02,Europe,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda RBPT,01:25:33,71.0,2023
+2023-07-09,Europe,Great Britain,Silverstone Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:25:16,52.0,2023
+2023-07-23,Europe,Hungary,Hungaroring,Max Verstappen,Red Bull Racing Honda RBPT,01:38:08,70.0,2023
+2023-07-30,Europe,Belgium,Circuit de Spa Francorchamps,Max Verstappen,Red Bull Racing Honda RBPT,01:22:30,44.0,2023
+2023-08-27,Europe,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing Honda RBPT,02:24:04,72.0,2023
+2023-09-03,Europe,Italy,Autodromo Nazionale di Monza,Max Verstappen,Red Bull Racing Honda RBPT,01:13:41,51.0,2023
+2023-09-17,Asia,Singapore,Marina Bay Street Circuit,Carlos Sainz,Ferrari,01:46:37,62.0,2023
+2023-09-24,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing Honda RBPT,01:30:58,53.0,2023
+2023-10-08,Asia,Qatar,Lusail International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:27:39,57.0,2023
+2023-10-22,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing Honda RBPT,01:35:21,56.0,2023
+2023-10-29,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing Honda RBPT,02:02:30,71.0,2023
+2023-11-05,South America,Brazil,Autodromo José Carlos Pace,Max Verstappen,Red Bull Racing Honda RBPT,01:56:48,71.0,2023
+2023-11-18,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing Honda RBPT,01:29:08,50.0,2023
+2023-11-26,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:27:02,58.0,2023
+2024-03-02,Asia,Sakhir,Bahrain International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:31:44,57.0,2024
+2024-03-09,Asia,Saudi Arabia,Jeddah Corniche Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:20:43,50.0,2024
+2024-03-24,Oceania,Australia,Albert Park Circuit,Carlos Sainz,Ferrari,01:20:26,58.0,2024
+2024-04-07,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing Honda RBPT,01:54:23,53.0,2024
+2024-04-21,Asia,China,Shanghai International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:40:52,56.0,2024
+2024-05-05,North America,United States,Miami International Autodrome,Lando Norris,McLaren Mercedes,01:30:49,57.0,2024
+2024-05-19,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing Honda RBPT,01:25:25,63.0,2024
+2024-05-26,Europe,Monaco,Circuit de Monaco,Charles Leclerc,Ferrari,02:23:15,78.0,2024
+2024-06-09,North America,Canada,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing Honda RBPT,01:45:47,70.0,2024
+2024-06-23,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing Honda RBPT,01:28:20,66.0,2024
+2024-06-30,Europe,Austria,Red Bull Ring,George Russell,Mercedes,01:24:22,71.0,2024
+2024-07-07,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:22:27,52.0,2024
+2024-07-21,Europe,Hungary,Hungaroring,Oscar Piastri,McLaren Mercedes,01:38:01,70.0,2024
+2024-07-28,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,Mercedes,01:19:57,44.0,2024
+2024-08-25,Europe,Netherlands,Circuit Zandvoort,Lando Norris,McLaren Mercedes,01:30:45,72.0,2024
+2024-09-01,Europe,Italy,Autodromo Nazionale di Monza,Charles Leclerc,Ferrari,01:14:40,53.0,2024
+2024-09-15,Asia,Azerbaijan,Baku City Circuit,Oscar Piastri,McLaren Mercedes,01:32:58,51.0,2024
+2024-09-22,Asia,Singapore,Marina Bay Street Circuit,Lando Norris,McLaren Mercedes,01:40:52,62.0,2024
+2024-10-20,North America,United States,Circuit of the Americas,Charles Leclerc,Ferrari,01:35:09,56.0,2024
+2024-10-27,North America,Mexico,Autódromo Hermanos Rodríguez,Carlos Sainz,Ferrari,01:40:55,71.0,2024
+2024-11-03,South America,Brazil,Autodromo José Carlos Pace,Max Verstappen,Red Bull Racing Honda RBPT,02:06:54,69.0,2024
+2024-11-23,North America,United States,Las Vegas Strip Circuit,George Russell,Mercedes,01:22:05,50.0,2024
+2024-12-01,Asia,Qatar,Lusail International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:31:05,57.0,2024
+2024-12-08,Asia,Abu Dhabi,Yas Marina Circuit,Lando Norris,McLaren Mercedes,01:26:33,58.0,2024
+2025-03-16,Oceania,Australia,Albert Park Circuit,Lando Norris,McLaren,01:42:06,57.0,2025
+2025-03-23,Asia,China,Shanghai International Circuit,Oscar Piastri,McLaren,01:30:55,56.0,2025
+2025-04-06,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing,01:22:06,53.0,2025
+2025-04-13,Asia,Sakhir,Bahrain International Circuit,Oscar Piastri,McLaren,01:35:39,57.0,2025
+2025-04-20,Asia,Saudi Arabia,Jeddah Corniche Circuit,Oscar Piastri,McLaren,01:21:06,50.0,2025
+2025-05-04,North America,United States,Miami International Autodrome,Oscar Piastri,McLaren,01:28:51,57.0,2025
+2025-05-18,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing,01:31:33,63.0,2025
+2025-05-25,Europe,Monaco,Circuit de Monaco,Lando Norris,McLaren,01:40:33,78.0,2025
+2025-06-01,Europe,Spain,Circuit de Barcelona Catalunya,Oscar Piastri,McLaren,01:32:57,66.0,2025
+2025-06-15,North America,Canada,Circuit Gilles Villeneuve,George Russell,Mercedes,01:31:52,70.0,2025
+2025-06-29,Europe,Austria,Red Bull Ring,Lando Norris,McLaren,01:23:47,70.0,2025
+2025-07-06,Europe,Great Britain,Silverstone Circuit,Lando Norris,McLaren,01:37:15,52.0,2025
+2025-07-27,Europe,Belgium,Circuit de Spa Francorchamps,Oscar Piastri,McLaren,01:25:22,44.0,2025
+2025-08-03,Europe,Hungary,Hungaroring,Lando Norris,McLaren,01:35:21,70.0,2025
