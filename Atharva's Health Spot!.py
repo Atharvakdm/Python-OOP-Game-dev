@@ -1,4 +1,4 @@
-answer = int(input("Welcome to Atharva's Health Spot!\n What would you like me to help you wtih?\nPress 1: If you are bored and want to play a game. \nPress 2: If you just want to interact and enjoy with me!\nYour Response: "))
+answer = int(input("Welcome to Atharva's Health Spot!\n What would you like me to help you wtih?\nPress 1: If you are bored and want to play a game. \nPress 2: If you just want to interact and enjo[...]
 if answer == 1:
     response1 = int(input(("Wow, so you want to play a game huh?\nPress 1 to play (Guess the number)\nPress 2 to play (Rock,Paper,Scissors)\nYour response: ")))
     if response1 == 1:
@@ -44,32 +44,36 @@ if answer == 1:
 
         options = ["rock", "paper", "scissors"]
 
+        # FIXED: Moved game logic inside the loop so it repeats correctly
         while True:
             user_input = input("Type Rock Paper Scissors or Q to quit: ")
             if user_input == "Q":
                 break
 
-            if user_input not in ["rock", "paper", "scissors"]:
+            if user_input.lower() not in ["rock", "paper", "scissors"]:
+                print("Invalid choice! Please enter rock, paper, or scissors.")
                 continue
 
-        random_number = random.randint(0, 2)
+            random_number = random.randint(0, 2)
 
-        computer_pick = options[random_number]
+            computer_pick = options[random_number]
 
-        print("Computer picked", computer_pick + ".")
+            print("Computer picked", computer_pick + ".")
 
-        if user_input == "rock" and computer_pick == "scissors":
-            print("You won")
-            user_wins += 1
-        elif user_input == "paper" and computer_pick == "rock":
-            print("You won")
-            user_wins += 1
-        elif user_input == "scissors" and computer_pick == "paper":
-            print("You won")
-            user_wins += 1
-        else:
-            print("You lost!")
-            computer_wins += 1
+            if user_input == "rock" and computer_pick == "scissors":
+                print("You won")
+                user_wins += 1
+            elif user_input == "paper" and computer_pick == "rock":
+                print("You won")
+                user_wins += 1
+            elif user_input == "scissors" and computer_pick == "paper":
+                print("You won")
+                user_wins += 1
+            elif user_input == computer_pick:
+                print("It's a tie!")
+            else:
+                print("You lost!")
+                computer_wins += 1
 
         print("You won", user_wins, "times.")
         print("The computer won", computer_wins, "times.")
@@ -89,10 +93,12 @@ else:
         while True:
             print("You can do this! Keep Walking! Hope you felt fit after this exercise!")
             break
-rating = [1,2,3,4,5]
-if rating == [1, 2, 3]:
+
+# FIXED: Get actual rating input instead of hardcoded list comparison
+rating = int(input("Rate your experience (1-5): "))
+if rating in [1, 2, 3]:
     print("Let us know how we can do better!")
-if rating == [4, 5]:
+elif rating in [4, 5]:
     print("Thank you for your feedback!")
 else:
     print("Thank you for giving me spending time on me!\n See you next time!\n Bye and Have a good day!")
